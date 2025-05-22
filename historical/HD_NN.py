@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from keras.models import Sequential
-from keras.layers import Dense
+from keras.layers import Dense, Input
 from keras.optimizers import Adam
 
 # Step 1: Ask the user for the instrument ticker
@@ -35,18 +35,20 @@ data = data.dropna()
 # We will use performance metrics as input features
 X = data[["Yearly Performance (%)", "6M Performance (%)", "3M Performance (%)", "1M Performance (%)", "1W Performance (%)"]]
 
-# Target variables: We want to predict the performance for the next 5 timeframes (shifted for future periods)
+# Target variables: We want to predict the *future performance* (percentage return), not the future price
 y = pd.DataFrame({
-    "Next Year Performance (%)": data['Close'].shift(-252),  # 252 trading days ~ 1 year
-    "Next 6 Months Performance (%)": data['Close'].shift(-126),  # 126 trading days ~ 6 months
-    "Next 3 Months Performance (%)": data['Close'].shift(-63),  # 63 trading days ~ 3 months
-    "Next Month Performance (%)": data['Close'].shift(-21),  # 21 trading days ~ 1 month
-    "Next Week Performance (%)": data['Close'].shift(-5)  # 5 trading days ~ 1 week
+    "Next Year Performance (%)": pd.Series(((data['Close'].shift(-252) - data['Close']) / data['Close'] * 100).values.flatten(), index=data.index),  # 252 trading days ~ 1 year
+    "Next 6 Months Performance (%)": pd.Series(((data['Close'].shift(-126) - data['Close']) / data['Close'] * 100).values.flatten(), index=data.index),  # 126 trading days ~ 6 months
+    "Next 3 Months Performance (%)": pd.Series(((data['Close'].shift(-63) - data['Close']) / data['Close'] * 100).values.flatten(), index=data.index),  # 63 trading days ~ 3 months
+    "Next Month Performance (%)": pd.Series(((data['Close'].shift(-21) - data['Close']) / data['Close'] * 100).values.flatten(), index=data.index),  # 21 trading days ~ 1 month
+    "Next Week Performance (%)": pd.Series(((data['Close'].shift(-5) - data['Close']) / data['Close'] * 100).values.flatten(), index=data.index)  # 5 trading days ~ 1 week
 })
 
-# Drop rows with NaN values caused by shifting
-X = X[:-252]  # Drop last 252 rows since they don't have 1 year of future data
-y = y[:-252]
+# Concatenate X and y, drop all rows with any NaNs, then split back into X and y to ensure perfect alignment
+full = pd.concat([X, y], axis=1).dropna()
+print("Columns in 'full':", full.columns.tolist())  # Print column names for verification
+X = full[[("Yearly Performance (%)", ""), ("6M Performance (%)", ""), ("3M Performance (%)", ""), ("1M Performance (%)", ""), ("1W Performance (%)", "")]]
+y = full[["Next Year Performance (%)", "Next 6 Months Performance (%)", "Next 3 Months Performance (%)", "Next Month Performance (%)", "Next Week Performance (%)"]]
 
 # Step 5: Normalize the data
 scaler = StandardScaler()
@@ -57,7 +59,8 @@ X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, 
 
 # Step 7: Define the Neural Network model
 model = Sequential()
-model.add(Dense(64, input_dim=X_train.shape[1], activation='relu'))
+model.add(Input(shape=(X_train.shape[1],)))
+model.add(Dense(64, activation='relu'))
 model.add(Dense(32, activation='relu'))
 model.add(Dense(5, activation='linear'))  # 5 outputs for the 5 return predictions
 
@@ -78,10 +81,11 @@ predictions = model.predict(X_test)
 
 # Step 11: Visualize the predictions vs actual values
 plt.figure(figsize=(14, 8))
+test_dates = data.index[-len(y_test):]  # Use the correct dates for the test set
 for i, metric in enumerate(y.columns):
     plt.subplot(3, 2, i+1)
-    plt.plot(y_test.index, y_test.iloc[:, i], label="Actual")  # Actual future performance
-    plt.plot(y_test.index, predictions[:, i], label="Predicted", linestyle="--")  # Predicted future performance
+    plt.plot(test_dates, y_test.iloc[:, i], label="Actual")
+    plt.plot(test_dates, predictions[:, i], label="Predicted", linestyle="--")
     plt.title(f"{metric} Prediction vs Actual")
     plt.legend()
     plt.grid(True)
@@ -90,6 +94,12 @@ plt.tight_layout()
 plt.show()
 
 # Step 12: Save the predictions and model
+# Create the output directory if it doesn't exist
+output_dir = r"C:\Users\jonel\OneDrive\Desktop\Jonel_Projects\Market_Analysis\Historical_ML\Data"
+os.makedirs(output_dir, exist_ok=True)
+
+# Save the predictions
+output_file = os.path.join(output_dir, f"{ticker}_predictions_NN.csv")
 predictions_df = pd.DataFrame(predictions, columns=y.columns, index=y_test.index)
-predictions_df.to_csv(f"{ticker}_predictions.csv")
-print(f"Predictions saved to {ticker}_predictions.csv")
+predictions_df.to_csv(output_file)
+print(f"Predictions saved to {output_file}")

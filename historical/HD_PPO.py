@@ -50,13 +50,15 @@ class StockTradingEnv(gym.Env):
     def step(self, action):
         # Define rewards for actions
         current_data = self.data.iloc[self.current_step]
-        
+        perf = current_data['Yearly Performance (%)']
+        if isinstance(perf, pd.Series):
+            perf = perf.iloc[0]
         if action == 0:  # Buy
-            reward = current_data['Yearly Performance (%)']  # Profit from buying
+            reward = float(perf)
         elif action == 2:  # Sell
-            reward = -current_data['Yearly Performance (%)']  # Loss from selling
+            reward = -float(perf)
         else:  # Hold
-            reward = 0  # No reward for holding
+            reward = 0.0  # No reward for holding
 
         self.current_step += 1
         done = self.current_step >= len(self.data) - 1
@@ -74,8 +76,8 @@ env = StockTradingEnv(data)
 # Define PPO model
 model = PPO("MlpPolicy", env, verbose=1)
 
-# Train PPO for 100,000 timesteps
-model.learn(total_timesteps=100000)
+# Train PPO for 10,000 timesteps (reduced for faster testing)
+model.learn(total_timesteps=10000)
 
 # Step 6: Evaluate the trained model
 obs = env.reset()
@@ -90,5 +92,11 @@ while not done:
 print(f"Total Reward from the model: {total_reward}")
 
 # Step 7: Save the trained model
-model.save(f"{ticker}_ppo_trained_model")
-print(f"Model saved to {ticker}_ppo_trained_model.zip")
+# Create the output directory if it doesn't exist
+output_dir = r"C:\Users\jonel\OneDrive\Desktop\Jonel_Projects\Market_Analysis\Historical_ML\Data"
+os.makedirs(output_dir, exist_ok=True)
+
+# Save the model
+model_path = os.path.join(output_dir, f"{ticker}_ppo_trained_model")
+model.save(model_path)
+print(f"Model saved to {model_path}.zip")

@@ -1,0 +1,1258 @@
+INFO:root:Error for ALKSV: HTTP Error 404: 
+INFO:root:Error for ALORU: HTTP Error 404: 
+INFO:root:Error for ALORW: HTTP Error 404: 
+INFO:root:Error for ALTIW: HTTP Error 404: 
+INFO:root:Error for AMAOW: HTTP Error 404: 
+INFO:root:Error for APMIU: HTTP Error 404: 
+INFO:root:Error for ARBGU: HTTP Error 404: 
+INFO:root:Error for ARCKW: HTTP Error 404: 
+INFO:root:Error for ARGUW: HTTP Error 404: 
+INFO:root:Error for ARTEU: HTTP Error 404: 
+INFO:root:Error for AVACU: HTTP Error 404: 
+INFO:root:Error for BGRYW: HTTP Error 404: 
+INFO:root:Error for BIOSU: HTTP Error 404: 
+INFO:root:Error for BMAQU: HTTP Error 404: 
+INFO:root:Error for BRLIR: HTTP Error 404: 
+INFO:root:Error for BRLIU: HTTP Error 404: 
+INFO:root:Error for BRLIW: HTTP Error 404: 
+INFO:root:Error for BTMDW: HTTP Error 404: 
+INFO:root:Error for BWCAU: HTTP Error 404: 
+INFO:root:Error for CCAIU: HTTP Error 404: 
+INFO:root:Error for CFB: HTTP Error 404: 
+INFO:root:Error for CIIGU: HTTP Error 404: 
+INFO:root:Error for CNFRL: HTTP Error 404: 
+INFO:root:Error for CPAAU: HTTP Error 404: 
+INFO:root:Error for CPAAW: HTTP Error 404: 
+INFO:root:Error for CSWC: Failed to perform, curl: (28) Operation timed out after 211091 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for CTCXW: HTTP Error 404: 
+INFO:root:Error for DISTU: HTTP Error 404: 
+INFO:root:Error for EMBKW: HTTP Error 404: 
+INFO:root:Error for FITBP: Failed to perform, curl: (28) Operation timed out after 871293 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for FLDD: HTTP Error 404: 
+INFO:root:Error for FRBNU: HTTP Error 404: 
+INFO:root:Error for FRBNW: HTTP Error 404: 
+INFO:root:Error for FTPAW: HTTP Error 404: 
+INFO:root:Error for GENQU: HTTP Error 404: 
+INFO:root:Error for GIWWW: HTTP Error 404: 
+INFO:root:Error for GRNAW: HTTP Error 404: 
+INFO:root:Error for GSRMW: HTTP Error 404: 
+INFO:root:Error for GURE: Failed to perform, curl: (28) Operation timed out after 2228632 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GUTS: Failed to perform, curl: (6) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GVCI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GVCIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GVCIW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GVH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GWAV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GWRS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GXAI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GXDW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GYRE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for GYRO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HAFC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HAIA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HAIAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HAIAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HAIN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HALO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HAO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HAS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBAN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBANL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBANM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBANP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBCP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBIO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBNC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HBT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCAI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCAT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCKT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCOW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCSG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCTI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCVI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCVIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HCWB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HDL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HDSN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HEAL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HECO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HEES: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HEJD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HELE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HEPA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HEPS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HERD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HERO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HEXO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HFBL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HFFG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HFSP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HFWA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HGBL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HHS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HIFS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HIHO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HIMX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HIT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HITI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HIVE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HKIT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HKPD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HLAL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HLIT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HLMN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HLNE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HLP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HLVX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HLXB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMAC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMACR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMACU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMACW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMCOU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMCOW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HMST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HNDL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HNNA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HNNAZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HNRG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HNST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HNVR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOFT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOFV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOFVW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOLO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOLOW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOLX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HON: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOND: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HONDU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HONDW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HONE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOOD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOOG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOOK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOOX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOPE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HORIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOTH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOUR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOVNP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOVR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOVRW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HOWL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HPAI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HPAIW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HPK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HPKEW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HPLT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HPLTU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HPLTW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HQGO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HQI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HQY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HRMY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HROW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HROWL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HROWM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HRTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HRYU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HRZN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSAI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSCS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSCSW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSDT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSIC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSII: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSON: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSPO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSPOR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSPOU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSPOW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSPT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSPTR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSPTU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HSTM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTBI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTBK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTCR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTHT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTLD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTLM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTOO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTOOW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HTZWW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUBC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUBCW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUBCZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUBG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUDA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUDAR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUDAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUDI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUHU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUIZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUMA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUMAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HURA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HURC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HURN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HUT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HVII: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HVIIR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HVIIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HWAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HWBK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HWC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for HWCPZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for IMACW: HTTP Error 404: 
+INFO:root:Error for IQMDW: HTTP Error 404: 
+INFO:root:Error for ISRLW: Failed to perform, curl: (28) Operation timed out after 712861 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for JUGGW: HTTP Error 404: 
+INFO:root:Error for LEXX: Failed to perform, curl: (28) Operation timed out after 588614 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LEXXW: Failed to perform, curl: (6) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFACW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFCR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFMD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFMDP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFUS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFVN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LFWD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGACU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGCB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGCF: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGCL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGHL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGHLW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGIH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGMK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGND: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGRO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGVN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LGVNV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LHSW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LICN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIDR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIDRW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIEN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIF: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LILA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LILAK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIMN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIMNW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LINC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIND: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LINE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LINK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LION: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIONU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIPO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIQT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LITE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LITM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LITP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LITT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LITTU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LITTW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIVE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIVN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIVR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIXT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LIXTW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LKFN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LKQ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LLYVA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LLYVK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMACA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMACU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMACW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMAT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMBS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMFA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMNL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LMNR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNKB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNKS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNSR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNTH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNZA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LNZAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOAN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOBO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOGC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOGI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOKV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOKVU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOKVW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOOP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOPE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOTWW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LOVE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPAA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPAAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPAAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPBB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPBBU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPBBW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPCN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPLA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPRO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPSN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPTH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LPTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LQDA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LQDT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LRCX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LRE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LRFC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LRGE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LRHC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LRMR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LRND: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSAK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSBK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSBPW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSCC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSEA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSEAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSPRU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSTA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LSTR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LTBR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LTRN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LTRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LTRY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LTRYW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LUCD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LUCY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LUCYW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LULU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LUNG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LUNR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVAC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVACW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVHD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVLU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVRO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVROW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LVTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LWAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LWLG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LXEH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LXEO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LXRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LYEL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LYFT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LYRA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LYTS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for LZMH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAAS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MACI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MACIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MACIW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MACK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAGS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAMA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAMO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MANH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAPS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAPSW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MARA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MARPS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MASI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MASK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MASS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MATH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MATW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAXI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAXN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAYA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAYAR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAYAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAYS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MAZE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBAV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBAVU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBAVW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBCN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBIN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBINM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBINN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBIO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBLY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBNKP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBOT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBUU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBWM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MBX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCAA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCAAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCAAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCACR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCACU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCACW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCBS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCDS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCFT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCHI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCHP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCHPP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCHS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCHX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCOM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCRB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCRI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCSE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCTR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MCVT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDAI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDAIW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDBH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDCXW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDGL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDIA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDIV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDLZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDRR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDRRP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDWD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDXG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MDXH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ME: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEDP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEDX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEGL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEIP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEKA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MELI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEMS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEOA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEOAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MEOH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MERC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MESA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MESO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for META: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METBV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METCB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METCL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METCV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METCZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for METU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MFH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MFI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MFIC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MFICL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MFIN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MFLX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGEE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGIC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGIH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGNI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGNX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGPI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGRC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGRM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGTA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MGYR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MHLD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MHUA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MIDD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MIGI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MILN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MIMI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MIND: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MIRA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MIRM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MIST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MITA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MITAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MITAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MITK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MKAM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MKDW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MKDWW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MKSI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MKTW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MKTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLAB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLAC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLACR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLACU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLAIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLEC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLECW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLGO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLKN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MLYS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MMLP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MMSI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MMYT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MNDO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MNDR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MNDY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MNKD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MNMD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for MPRAU: HTTP Error 404: 
+INFO:root:Error for MPRAW: HTTP Error 404: 
+INFO:root:Error for MURFW: HTTP Error 404: 
+INFO:root:Error for NGIO: HTTP Error 404: 
+INFO:root:Error for NVEC: Failed to perform, curl: (28) Operation timed out after 711351 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for OTMOW: HTTP Error 404: 
+INFO:root:Error for PCCTU: HTTP Error 404: 
+INFO:root:Error for PFTAW: HTTP Error 500: 
+INFO:root:Error for PTHRW: HTTP Error 404: 
+INFO:root:Error for PYPD: Failed to perform, curl: (28) Operation timed out after 56222 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PYPG: Failed to perform, curl: (6) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PYPL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PYPS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PYPT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PYR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PYXS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PYZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for PZZA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QABA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QAT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QBIG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QBUF: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QCLN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QCLR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QCML: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QCOM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QCRH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QDEL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QDTY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QETA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QETAR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QETAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QFIN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QHDG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QIPT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QLGN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QLTI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QLTY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QLYS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QMCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QMID: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QMMM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QNCX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QNRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QNST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QNTM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QNXT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QOWZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQEW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQHG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQJG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQLV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQMG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQJ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQQY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QQXT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QRHC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QRMI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QRVO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QSEAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QSG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QSI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QSIAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QSIX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QSML: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QTEC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QTNT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QTOP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QTR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QTRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QTTB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QUBT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QUIK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QURE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QUSA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QVCGA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QVCGB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QVCGP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QXO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QXQ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QYLD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for QYLG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAAQU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAIL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAINW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAMMU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAND: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RANG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RANGR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RANGU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RANI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAPP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAPT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RARE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAVE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAYA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RAYS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RBB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RBBN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RBCAA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RBKB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RBNE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RBNEV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCAT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCEL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCKT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCKTW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCKY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCLFU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCMT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCON: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RCT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDAC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDACR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDACU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDAGU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDCM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDFN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDGT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDHL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDIB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDNT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDTL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDTY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDUS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDVT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDVY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDWR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDZN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RDZNW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REAI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REAL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REAX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REBN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RECT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REFI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REFR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REGCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REGCP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REGN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REIT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REKR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RELI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RELIW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RELL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RELY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RENB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RENE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RENEU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RENEW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RENT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REPL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RETO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REUN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REVB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REVBW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for REYN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RFAI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RFAIR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RFAIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RFDI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RFEM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RFEU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RFIL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGEN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGLD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGLS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGNX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGTI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RGTIW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RHLD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RHLDV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RIBB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RIBBR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RIBBU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RICK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RIGL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILYG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILYK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILYL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILYN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILYP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILYT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RILYZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RIME: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RING: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RIOT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RITR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RIVN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RKDA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RKLB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RKLX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RLAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RLMD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RLYB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMBI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMBL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMBS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMCF: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMCO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMCOW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMNI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMSG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMSGW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RMTI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNAC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNAZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNDM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNEM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNERU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNEW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNLX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNRG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNWK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNWWW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RNXT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROAD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROBT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROCAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROCK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROIV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROKU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROMA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROOT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for ROST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RPAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RPD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RPID: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RPRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RPTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RRBI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RRGB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RRR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RSLS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RSSS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RSVR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RSVRW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RTC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RTH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RUM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RUMBW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RUN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RUNN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RUSHA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RUSHB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVMD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVMDW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVNC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVPH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVPHW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVSB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVSN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVSNW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RVYL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RWAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RWAYL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RWAYZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RXDX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RXRX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RXST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RXT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RYAAY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RYET: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RYTM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RZLT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RZLV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for RZLVW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SABR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SABRP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SABS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SABSW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAFT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAGE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAGT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAIA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAIH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAIHW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAIL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAMAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAMG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SANA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SANG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SANM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SANW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SARK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SASI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SATL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SATLW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SATS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SAVA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBAC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBCF: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBCWW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBET: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBFG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBFM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBFMW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBGI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBIGW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBLK: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBRA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBSI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SBUX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCAQU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCDS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCHL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCKT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCLX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCLXW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCMA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCMAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCMAW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCNI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCNX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCOR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCPH: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCSC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCVL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCWO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCYX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SCZ: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDACU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDAWW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDGR: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDHIU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDOT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDSI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDSTW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDTY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SDVY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEAT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEATW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEDG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEED: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEEM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEER: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEIC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEIE: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEIS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SELF: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SELX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SENEA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SENEB: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEPN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SERA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SERV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SETM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEVN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SEZL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFBC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFHG: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFIX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFLO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFNC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFRT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFRTW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFST: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SFWL: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGBX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGBXV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGD: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGDVV: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGHT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGLY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGMA: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGML: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGMO: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGMT: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGRP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGRY: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SGTX: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHBI: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHC: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHCAU: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHEN: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHFS: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHFSW: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHIM: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SHIP: Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for SLVRU: HTTP Error 404: 
+INFO:root:Error for SNDKV: HTTP Error 404: 
+INFO:root:Error for SOLOW: HTTP Error 404: 
+INFO:root:Error for SPHAR: HTTP Error 404: 
+INFO:root:Error for TANNI: HTTP Error 404: 
+INFO:root:Error for TANNL: HTTP Error 404: 
+INFO:root:Error for TANNZ: HTTP Error 404: 
+INFO:root:Error for TBSAW: HTTP Error 404: 
+INFO:root:Error for THCHW: HTTP Error 404: 
+INFO:root:Error for TWCBU: HTTP Error 404: 
+INFO:root:Error for TWCBW: HTTP Error 404: 
+INFO:root:Error for UTAAU: Failed to perform, curl: (28) Operation timed out after 56734 milliseconds with 1621 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTEN: Failed to perform, curl: (7) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTHR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTHY: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 3 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTMD: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 26 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTRE: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTSI: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 35 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTWO: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 3 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UTWY: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 5 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UVSP: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 8 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UXIN: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 3 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UYLD: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 5 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for UYSCU: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 12 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VABK: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 2 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VACH: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 2 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VACHU: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 3 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VACHW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 2 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VALN: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 2 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VALU: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 2 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VANI: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 3 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VBIL: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 2 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VBNK: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VBTX: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 4 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VC: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 16 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCEL: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCIC: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCICU: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCICW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCIG: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCIT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCKAU: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCLT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCRB: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCSA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCSH: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCTR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCXA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCXAW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VCYT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VECO: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 17 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VECT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VEEA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VEEAW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VEEE: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VEON: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VERA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VERB: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VERI: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VERO: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VERU: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VERV: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VERX: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VFF: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VFLO: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VFS: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VFSWW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGAS: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGASW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGFC: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGIT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGLT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGSH: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGSR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VGUS: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIASP: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIAV: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 2 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VICR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIGI: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIGL: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VINC: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VINP: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIOT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIRC: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIRT: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VITL: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIVK: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VIVS: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 9 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VKTX: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VLCN: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VLDRW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VLGEA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 16 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VLY: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 22 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VLYPO: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VLYPP: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 6 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VMAR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VMAX: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VMBS: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VMD: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VMEO: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VMGA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VMGAW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VNDA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VNET: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VNOM: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VNQI: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VOD: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VONE: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VONG: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VONV: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 1 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VOR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VOXR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VPLS: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRAR: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRAX: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRCA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRDN: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VREX: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRIG: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRME: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRMEW: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRMMQ: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRNA: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRNS: Failed to perform, curl: (7) Failed to connect to guce.yahoo.com port 443 after 0 ms: Couldn't connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRNT: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRPX: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRRM: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRSK: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRSN: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRTL: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRTS: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VRTX: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VS: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSA: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSAT: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSDA: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSEC: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSEE: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSEEW: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSME: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSMV: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSSYW: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSTA: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSTE: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSTEW: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VSTM: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTC: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTGN: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTHR: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTIP: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTRS: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTSI: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTVT: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTWG: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTWO: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTWV: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VTYX: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VUZI: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VVOS: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VVPR: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VWOB: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VXRT: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VXUS: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VYGR: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VYMI: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for VYNE: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WABC: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WABF: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WAFD: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WAFDP: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WAFU: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WAI: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WALD: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WALDW: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WASH: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WATT: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WAVE: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WAY: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WB: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WBA: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WBD: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WBND: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WBTN: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WBUYD: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WCBR: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WCLD: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WCT: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WDAY: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for WDCVV: HTTP Error 404: 
+INFO:root:Error for XPVVV: HTTP Error 404: 
+INFO:root:Error for ZBZZT: HTTP Error 404: 
+INFO:root:Error for ZCZZT: HTTP Error 404: 
+INFO:root:Error for ZINGU: HTTP Error 404: 
+ERROR:yfinance:
+16 Failed downloads:
+ERROR:yfinance:['DDOG']: Timeout('Failed to perform, curl: (28) Connection timed out after 142464 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+ERROR:yfinance:['DBX']: Timeout('Failed to perform, curl: (28) Connection timed out after 142517 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+ERROR:yfinance:['ENTG', 'FTNT', 'DRS', 'FROG', 'EBC', 'FANG', 'GBDC', 'CZR', 'EXLS', 'FIVN', 'FIBK', 'FOX', 'FITB', 'FLEX']: DNSError('Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+ERROR:yfinance:
+50 Failed downloads:
+ERROR:yfinance:['ICLR', 'IRDM', 'IMVT', 'INCY', 'GOOGL', 'JBHT', 'MRX', 'MNST', 'LCID', 'GDS', 'IAC', 'KC', 'IBB', 'IONS', 'LBTYK', 'MRVL', 'MQ', 'GTX', 'INTC', 'KDP', 'GILD', 'MSTR', 'JAZZ', 'ISRG', 'IBKR', 'GLPI', 'KTOS', 'GEHC', 'KHC', 'GRAB', 'GH', 'GMAB', 'GEN', 'GLBE', 'ILMN', 'INTU', 'GT', 'LEGN', 'GOOG', 'INSM', 'LBTYA', 'GFS', 'GTLB', 'GNTX', 'GLNG', 'MSFT', 'IEF', 'MRNA', 'JD', 'INTR']: DNSError('Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+ERROR:yfinance:
+50 Failed downloads:
+ERROR:yfinance:['PFF', 'PANW', 'PDD', 'NFLX', 'PTON', 'SIRI', 'NCNO', 'NWL', 'OPCH', 'PFG', 'SHY', 'PAYO', 'PPC', 'OXLC', 'NTRA', 'PSNY', 'PTCT', 'NXT', 'NWSA', 'PCVX', 'NMRK', 'NVDA', 'PTEN', 'ON', 'NDAQ', 'NTAP', 'PENN', 'PAA', 'PONY', 'ODD', 'PODD', 'ONB', 'OTEX', 'NXPI', 'PAYX', 'NBIX', 'MTCH', 'ODFL', 'PCAR', 'OKTA', 'NEXT', 'MU', 'OZK', 'OS', 'PAGP', 'NBIS', 'NTNX', 'PEP', 'NTRS', 'PARA']: DNSError('Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+ERROR:yfinance:
+50 Failed downloads:
+ERROR:yfinance:['SMTC', 'TTMI', 'TER', 'TTD', 'SSRM', 'SYM', 'UPWK', 'SRAD', 'STLD', 'TECH', 'SNDK', 'SRPT', 'TSCO', 'SMMT', 'TGTX', 'SMCI', 'STX', 'UAL', 'TXN', 'TENB', 'SSNC', 'SOUN', 'TMUS', 'TXRH', 'SRRK', 'WEN', 'TTWO', 'TPG', 'SNY', 'TMDX', 'WDC', 'TSLA', 'TTEK', 'TRMB', 'SWKS', 'STNE', 'TW', 'TEM', 'TROW', 'TLT', 'WFRD', 'SNPS', 'TCOM', 'SOFI', 'UPST', 'URBN', 'SMH', 'SWTX', 'TEAM', 'SLM']: DNSError('Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+ERROR:yfinance:
+14 Failed downloads:
+ERROR:yfinance:['WYNN', 'ZS', 'WING', 'WRD', 'WSC', 'XEL', 'XENE', 'ZION', 'ZLAB', 'XRAY', 'WMG', 'ZM', 'ZI', 'XP']: DNSError('Failed to perform, curl: (6) Could not resolve host: fc.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+INFO:root:Error for ALKSV: HTTP Error 404: 
+INFO:root:Error for ALORU: HTTP Error 404: 
+INFO:root:Error for ALORW: HTTP Error 404: 
+INFO:root:Error for ALTIW: HTTP Error 404: 
+INFO:root:Error for AMAOW: HTTP Error 404: 
+INFO:root:Error for APMIU: HTTP Error 404: 
+INFO:root:Error for ARBGU: HTTP Error 404: 
+INFO:root:Error for ARCKW: HTTP Error 404: 
+INFO:root:Error for ARGUW: HTTP Error 404: 
+INFO:root:Error for ARTEU: HTTP Error 404: 
+INFO:root:Error for AVACU: HTTP Error 404: 
+INFO:root:Error for BGRYW: HTTP Error 404: 
+INFO:root:Error for BIOSU: HTTP Error 404: 
+INFO:root:Error for BMAQU: HTTP Error 404: 
+INFO:root:Error for BRLIR: HTTP Error 404: 
+INFO:root:Error for BRLIU: HTTP Error 404: 
+INFO:root:Error for BRLIW: HTTP Error 404: 
+INFO:root:Error for BTMDW: HTTP Error 404: 
+INFO:root:Error for BWCAU: HTTP Error 404: 
+INFO:root:Error for CCAIU: HTTP Error 404: 
+INFO:root:Error for CFB: HTTP Error 404: 
+INFO:root:Error for CIIGU: HTTP Error 404: 
+INFO:root:Error for CNFRL: HTTP Error 404: 
+INFO:root:Error for CPAAU: HTTP Error 404: 
+INFO:root:Error for CPAAW: HTTP Error 404: 
+INFO:root:Error for CTCXW: HTTP Error 404: 
+INFO:root:Error for DISTU: HTTP Error 404: 
+INFO:root:Error for EMBKW: HTTP Error 404: 
+INFO:root:Error for FLDD: HTTP Error 404: 
+INFO:root:Error for FRBNU: HTTP Error 404: 
+INFO:root:Error for FRBNW: HTTP Error 404: 
+INFO:root:Error for FTPAW: HTTP Error 404: 
+INFO:root:Error for GENQU: HTTP Error 404: 
+INFO:root:Error for GIWWW: HTTP Error 404: 
+INFO:root:Error for GRNAW: HTTP Error 404: 
+INFO:root:Error for GSRMW: HTTP Error 404: 
+INFO:root:Error for HMACR: HTTP Error 404: 
+INFO:root:Error for HMACU: HTTP Error 404: 
+INFO:root:Error for HMACW: HTTP Error 404: 
+INFO:root:Error for HPLTU: HTTP Error 404: 
+INFO:root:Error for HPLTW: HTTP Error 404: 
+INFO:root:Error for HTBI: HTTP Error 404: 
+INFO:root:Error for IMACW: HTTP Error 404: 
+INFO:root:Error for IQMDW: HTTP Error 404: 
+INFO:root:Error for JG: Failed to perform, curl: (28) Operation timed out after 4627477 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for JUGGW: HTTP Error 404: 
+INFO:root:Error for LFACW: HTTP Error 404: 
+INFO:root:Error for LGVNV: HTTP Error 404: 
+INFO:root:Error for LUCYW: HTTP Error 500: 
+INFO:root:Error for LVACW: HTTP Error 404: 
+INFO:root:Error for MGTA: HTTP Error 404: 
+INFO:root:Error for MPRAU: HTTP Error 404: 
+INFO:root:Error for MPRAW: HTTP Error 404: 
+INFO:root:Error for MURFW: HTTP Error 404: 
+INFO:root:Error for NGIO: HTTP Error 404: 
+INFO:root:Error for OTEX: Failed to perform, curl: (28) Operation timed out after 246321 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+INFO:root:Error for OTMOW: HTTP Error 404: 
+INFO:root:Error for PCCTU: HTTP Error 404: 
+INFO:root:Error for PFTAW: HTTP Error 500: 
+INFO:root:Error for PTHRW: HTTP Error 404: 
+INFO:root:Error for RCLFU: HTTP Error 404: 
+INFO:root:Error for RHLDV: HTTP Error 404: 
+INFO:root:Error for RNERU: HTTP Error 404: 
+INFO:root:Error for ROCAU: HTTP Error 404: 
+INFO:root:Error for SAMAU: HTTP Error 404: 
+INFO:root:Error for SCMAU: HTTP Error 404: 
+INFO:root:Error for SCMAW: HTTP Error 404: 
+INFO:root:Error for SDACU: HTTP Error 404: 
+INFO:root:Error for SLVRU: HTTP Error 404: 
+INFO:root:Error for SNDKV: HTTP Error 404: 
+INFO:root:Error for SOLOW: HTTP Error 404: 
+INFO:root:Error for SPHAR: HTTP Error 404: 
+INFO:root:Error for TANNI: HTTP Error 404: 
+INFO:root:Error for TANNL: HTTP Error 404: 
+INFO:root:Error for TANNZ: HTTP Error 404: 
+INFO:root:Error for TBSAW: HTTP Error 404: 
+INFO:root:Error for THCHW: HTTP Error 404: 
+INFO:root:Error for TWCBU: HTTP Error 404: 
+INFO:root:Error for TWCBW: HTTP Error 404: 
+INFO:root:Error for UTAAU: HTTP Error 404: 
+INFO:root:Error for VCXAW: HTTP Error 404: 
+INFO:root:Error for VMGAW: HTTP Error 404: 
+INFO:root:Error for VRMMQ: HTTP Error 404: 
+INFO:root:Error for WDCVV: HTTP Error 404: 
+INFO:root:Error for XPVVV: HTTP Error 404: 
+INFO:root:Error for ZBZZT: HTTP Error 404: 
+INFO:root:Error for ZCZZT: HTTP Error 404: 
+INFO:root:Error for ZINGU: HTTP Error 404: 
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['HAS']: Timeout('Failed to perform, curl: (28) Operation timed out after 505258 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')

@@ -101,7 +101,13 @@ plt.tight_layout()
 plt.show()
 
 # Step 13: Save the predictions and model
+# Create the output directory if it doesn't exist
+output_dir = r"C:\Users\jonel\OneDrive\Desktop\Jonel_Projects\Market_Analysis\Historical_ML\Data"
+os.makedirs(output_dir, exist_ok=True)
+
+# Save the predictions
+output_file = os.path.join(output_dir, f"{ticker}_predictions_GRU.csv")
 predictions_df = pd.DataFrame(predictions, columns=y.columns, index=y_test.index)
-predictions_df.to_csv(f"{ticker}_predictions_GRU.csv")
-print(f"Predictions saved to {ticker}_predictions_GRU.csv")
+predictions_df.to_csv(output_file)
+print(f"Predictions saved to {output_file}")
 

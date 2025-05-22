@@ -105,9 +105,37 @@ for i in range(5):
 print("\nClassification Report:")
 print(classification_report(np.argmax(y_test, axis=1), predicted_risk_levels))
 
-# Step 8: Save the Model
-model.save(f"{ticker}_risk_profile_model.keras")
-print(f"Model saved to {ticker}_risk_profile_model.h5")
+# Step 8: Create output directory and save results
+output_dir = r"C:\Users\jonel\OneDrive\Desktop\Jonel_Projects\Market_Analysis\Historical_ML\Data"
+os.makedirs(output_dir, exist_ok=True)
+
+# Save the Model
+model_path = os.path.join(output_dir, f"{ticker}_risk_profile_model_{model_type.lower()}.keras")
+model.save(model_path)
+print(f"Model saved to {model_path}")
+
+# Save predictions and actual values
+results_df = pd.DataFrame({
+    'Actual_Risk_Level': np.argmax(y_test, axis=1),
+    'Predicted_Risk_Level': predicted_risk_levels,
+    'Low_Risk_Probability': predictions[:, 0],
+    'Medium_Risk_Probability': predictions[:, 1],
+    'High_Risk_Probability': predictions[:, 2]
+})
+predictions_path = os.path.join(output_dir, f"{ticker}_risk_predictions_{model_type.lower()}.csv")
+results_df.to_csv(predictions_path)
+print(f"Predictions saved to {predictions_path}")
+
+# Save training history
+history_df = pd.DataFrame({
+    'Train_Accuracy': history.history['accuracy'],
+    'Val_Accuracy': history.history['val_accuracy'],
+    'Train_Loss': history.history['loss'],
+    'Val_Loss': history.history['val_loss']
+})
+history_path = os.path.join(output_dir, f"{ticker}_training_history_{model_type.lower()}.csv")
+history_df.to_csv(history_path)
+print(f"Training history saved to {history_path}")
 
 # Step 9: Visualize Training History
 plt.figure(figsize=(10, 6))

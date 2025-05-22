@@ -56,10 +56,10 @@ plt.tight_layout(rect=[0, 0, 1, 0.97])
 plt.show()
 
 # Step 6: Save the data to a CSV file inside a folder
-output_folder = "stock_data"
-os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
+output_dir = r"C:\Users\jonel\OneDrive\Desktop\Jonel_Projects\Market_Analysis\Historical_ML\Data"
+os.makedirs(output_dir, exist_ok=True)  # Create folder if it doesn't exist
 
-csv_filename = os.path.join(output_folder, f"{ticker}_5y_performance_metrics.csv")
+csv_filename = os.path.join(output_dir, f"{ticker}_5y_performance_metrics.csv")
 data.to_csv(csv_filename)
-print(f"\nData saved to '{csv_filename}'.")
+print(f"\nData saved to {csv_filename}")
 

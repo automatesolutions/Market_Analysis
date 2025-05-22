@@ -155,11 +155,17 @@ for timeframe in timeframes:
     print(f"\nDecision for {timeframe}: {decision}")
 
 # Step 7: Save the data to a CSV file inside a folder
-output_folder = "stock_data"
-os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
+output_dir = r"C:\Users\jonel\OneDrive\Desktop\Jonel_Projects\Market_Analysis\Historical_ML\Data"
+os.makedirs(output_dir, exist_ok=True)  # Create folder if it doesn't exist
 
-csv_filename = os.path.join(output_folder, f"{ticker}_5y_performance_metrics.csv")
-data.to_csv(csv_filename)
-print(f"\nData saved to '{csv_filename}'.")
+# Save performance metrics data
+metrics_file = os.path.join(output_dir, f"{ticker}_5y_performance_metrics.csv")
+data.to_csv(metrics_file)
+
+# Save risk metrics data
+risk_metrics_file = os.path.join(output_dir, f"{ticker}_risk_metrics.csv")
+metrics_df.to_csv(risk_metrics_file)
+
+print(f"\nData saved to:\n- {metrics_file}\n- {risk_metrics_file}")
 
 

@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import zscore
+import os  # Add os import
 
 # Step 1: Fetch Cryptocurrency List from CoinGecko API
 print("Fetching cryptocurrency list from CoinGecko API...")
@@ -86,9 +87,14 @@ if crypto_tickers:
 
     # Step 6: Save Results to CSV Files
     print("\nSaving results to CSV files...")
-    performance_df.to_csv("crypto_performance_metrics.csv")  # Save performance metrics
-    outliers.to_csv("crypto_outliers.csv")  # Save outliers
-    print("Results saved to 'crypto_performance_metrics.csv' and 'crypto_outliers.csv'.")
+    # Create the output directory if it doesn't exist
+    output_dir = r"C:\Users\jonel\OneDrive\Desktop\Jonel_Projects\Market_Analysis\outlier\data"
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Save the files in the specified directory
+    performance_df.to_csv(os.path.join(output_dir, "crypto_performance_metrics.csv"))  # Save performance metrics
+    outliers.to_csv(os.path.join(output_dir, "crypto_outliers.csv"))  # Save outliers
+    print(f"Results saved to:\n- {os.path.join(output_dir, 'crypto_performance_metrics.csv')}\n- {os.path.join(output_dir, 'crypto_outliers.csv')}")
 
 else:
     print("No cryptocurrency tickers were fetched. Analysis cannot be performed.")
