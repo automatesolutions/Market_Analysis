@@ -600,28 +600,46 @@ def generate_ticker_charts(n_clicks, ticker, timeframe):
         if timeframe == 'daily' and len(df) >= 60:
             try:
                 df['Price_Change'] = df['Close'].pct_change()
-                df['Volatility'] = df['Close'].rolling(window=20).std()
-                df['Sector_Volatility'] = df['Sector_Close'].rolling(window=20).std()
-                df['Realized_Vol'] = compute_realized_volatility(df)
-                df['Vol_Ratio'] = df['Volatility'] / df['Volatility'].rolling(window=100).mean()
-                df['SMA_20'] = df['Close'].rolling(window=20).mean()
-                df['RSI'] = compute_rsi(df['Close'])
-                df['MACD'] = df['Close'].ewm(span=12, adjust=False).mean() - df['Close'].ewm(span=26, adjust=False).mean()
-                df['Upper_BB'] = df['SMA_20'] + 2 * df['Close'].rolling(window=20).std()
-                df['Lower_BB'] = df['SMA_20'] - 2 * df['Close'].rolling(window=20).std()
-                df['ATR'] = (df['High'].rolling(window=14).max() - df['Low'].rolling(window=14).min())
+                logging.info(f'Rows after Price_Change: {df.shape[0]}')
+                df['Volatility'] = df['Close'].rolling(window=5).std()
+                logging.info(f'Rows after Volatility: {df.shape[0]}')
+                df['Sector_Volatility'] = df['Sector_Close'].rolling(window=5).std()
+                logging.info(f'Rows after Sector_Volatility: {df.shape[0]}')
+                df['Realized_Vol'] = compute_realized_volatility(df, window=5)
+                logging.info(f'Rows after Realized_Vol: {df.shape[0]}')
+                df['Vol_Ratio'] = df['Volatility'] / df['Volatility'].rolling(window=10).mean()
+                logging.info(f'Rows after Vol_Ratio: {df.shape[0]}')
+                df['SMA_20'] = df['Close'].rolling(window=5).mean()
+                logging.info(f'Rows after SMA_20: {df.shape[0]}')
+                df['RSI'] = compute_rsi(df['Close'], 5)
+                logging.info(f'Rows after RSI: {df.shape[0]}')
+                df['MACD'] = df['Close'].ewm(span=6, adjust=False).mean() - df['Close'].ewm(span=13, adjust=False).mean()
+                logging.info(f'Rows after MACD: {df.shape[0]}')
+                df['Upper_BB'] = df['SMA_20'] + 2 * df['Close'].rolling(window=5).std()
+                df['Lower_BB'] = df['SMA_20'] - 2 * df['Close'].rolling(window=5).std()
+                logging.info(f'Rows after Bollinger Bands: {df.shape[0]}')
+                df['ATR'] = (df['High'].rolling(window=5).max() - df['Low'].rolling(window=5).min())
+                logging.info(f'Rows after ATR: {df.shape[0]}')
                 df['Imbalance'] = df['High'] - df['Low']
                 features = ['Close', 'Volume', 'Price_Change', 'Volatility', 'Sector_Volatility', 'Realized_Vol', 'Vol_Ratio', 'SMA_20', 'RSI', 'MACD', 'Upper_BB', 'Lower_BB', 'ATR', 'Order_Flow']
                 df_processed = df[features].dropna()
+                logging.info(f'Rows after dropna: {df_processed.shape[0]}')
+                if df_processed.shape[0] < 60:
+                    return fig, f"Not enough processed data for {ticker} to make daily predictions. Need at least 60 rows, got {df_processed.shape[0]}."
                 seq = df_processed.iloc[-60:][features].values
+                if seq.shape[0] < 1:
+                    return fig, f"No valid data for {ticker} after feature engineering."
                 feature_scaler = MinMaxScaler()
-                seq_scaled = feature_scaler.fit_transform(seq)
+                feature_scaler.fit(df_processed[features])
+                seq_scaled = feature_scaler.transform(seq)
                 target_scaler = MinMaxScaler()
-                close_values = df_processed.iloc[-60:]['Close'].values.reshape(-1, 1)
+                close_values = df_processed['Close'].values.reshape(-1, 1)
                 target_scaler.fit(close_values)
                 seq_tensor = torch.tensor(seq_scaled, dtype=torch.float32).unsqueeze(0)
+                logging.info(f"Scaled input to model (daily): {seq_scaled}")
                 with torch.no_grad():
                     predictions = daily_model(seq_tensor).numpy().flatten()
+                logging.info(f"Raw model output (daily): {predictions}")
                 predictions = target_scaler.inverse_transform(predictions.reshape(-1, 1)).flatten()
                 logging.info(f"Last 5 closing prices for {ticker} (Daily): {df['Close'].iloc[-5:].tolist()}")
                 logging.info(f"Daily Predictions for {ticker} (first 5): {predictions[:5].tolist()}")
@@ -665,26 +683,34 @@ def generate_ticker_charts(n_clicks, ticker, timeframe):
         elif timeframe == '1-minute' and len(df) >= 30:
             try:
                 df['Price_Change'] = df['Close'].pct_change()
-                df['Volatility'] = df['Close'].rolling(window=30).std()
-                df['Sector_Volatility'] = df['Sector_Close'].rolling(window=30).std()
-                df['Realized_Vol'] = compute_realized_volatility(df)
-                df['Vol_Ratio'] = df['Volatility'] / df['Volatility'].rolling(window=100).mean()
-                df['Momentum'] = df['Close'].diff(5)
-                df['Volume_Spike'] = (df['Volume'] / df['Volume'].rolling(window=30).mean()) - 1
+                df['Volatility'] = df['Close'].rolling(window=10).std()
+                df['Sector_Volatility'] = df['Sector_Close'].rolling(window=10).std()
+                df['Realized_Vol'] = compute_realized_volatility(df, window=10)
+                df['Vol_Ratio'] = df['Volatility'] / df['Volatility'].rolling(window=20).mean()
+                df['Momentum'] = df['Close'].diff(3)
+                df['Volume_Spike'] = (df['Volume'] / df['Volume'].rolling(window=10).mean()) - 1
                 features = ['Close', 'Volume', 'Price_Change', 'Volatility', 'Sector_Volatility', 'Realized_Vol', 'Vol_Ratio', 'Momentum', 'Volume_Spike']
                 df_processed = df[features].dropna()
+                logging.info(f'Rows after dropna (1-minute): {df_processed.shape[0]}')
+                if df_processed.shape[0] < 30:
+                    return fig, f"Not enough processed data for {ticker} to make 1-minute predictions. Need at least 30 rows, got {df_processed.shape[0]}."
                 order_footprint = fetch_order_footprint(ticker, period='7d', interval='1m', expected_rows=len(df_processed))
                 order_footprint = order_footprint[-30:]
                 seq = df_processed.iloc[-30:][features].values
+                if seq.shape[0] < 1:
+                    return fig, f"No valid data for {ticker} after feature engineering."
                 feature_scaler = MinMaxScaler()
-                seq_scaled = feature_scaler.fit_transform(seq)
+                feature_scaler.fit(df_processed[features])
+                seq_scaled = feature_scaler.transform(seq)
                 target_scaler = MinMaxScaler()
-                close_values = df_processed.iloc[-30:]['Close'].values.reshape(-1, 1)
+                close_values = df_processed['Close'].values.reshape(-1, 1)
                 target_scaler.fit(close_values)
                 seq_tensor = torch.tensor(seq_scaled, dtype=torch.float32).unsqueeze(0)
                 order_tensor = torch.tensor(order_footprint, dtype=torch.float32).unsqueeze(0)
+                logging.info(f"Scaled input to model (1-minute): {seq_scaled}")
                 with torch.no_grad():
                     predictions = minute_model(order_tensor, seq_tensor).numpy().flatten()
+                logging.info(f"Raw model output (1-minute): {predictions}")
                 predictions = target_scaler.inverse_transform(predictions.reshape(-1, 1)).flatten()
                 logging.info(f"Last 5 closing prices for {ticker} (1-Minute): {df['Close'].iloc[-5:].tolist()}")
                 logging.info(f"1-Minute Predictions for {ticker} (first 5): {predictions[:5].tolist()}")

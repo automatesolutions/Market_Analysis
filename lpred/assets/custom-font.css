@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'EnhancedDotDigital7';
+    src: url('/assets/enhanced_dot_digital-7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.dotdigital-title {
+    font-family: 'EnhancedDotDigital7', monospace, sans-serif;
+    letter-spacing: 0.05em;
+} 
